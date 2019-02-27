@@ -1,0 +1,11 @@
+## java类加载机制
+
+Bootstrap ClassLoader  启动类加载器
+         |
+         |
+   ExtClassLoader      扩展类加载器
+         |
+         |
+   AppClassLoader      应用类加载器
+ 
+ 
