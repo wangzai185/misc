@@ -1,17 +1,22 @@
 # Spring Cloud
 ###一、项目构成：
-|————App
+```
+
+|————App      //父节点
 |
-|__config
+|__config    //配置中心 可设置git svn 本地化配置等
 |
-|__erueka
+|__erueka    //注册中心
 |
-|__gateway
+|__gateway   //网关路由
 |
-|__common
+|__common    //公用工具类
 |
-|__Producer
+|__producer  //生产者
 |
-|__Consumer
+|__consumer  //消费者
 |
 |_pom.xml
+
+
+```
