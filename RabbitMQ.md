@@ -8,3 +8,4 @@
 ### RabbitMQ 信道Channel
 ### RabbitMQ 路由key设置
 ### RabbitMQ 延迟重试
+https://www.cnblogs.com/xishuai/p/spring-boot-rabbitmq-delay-queue.html
