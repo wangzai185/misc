@@ -9,3 +9,7 @@
 ### RabbitMQ 路由key设置
 ### RabbitMQ 延迟重试
 https://www.cnblogs.com/xishuai/p/spring-boot-rabbitmq-delay-queue.html
+### 6种消息类型
+  + 订阅
+  + 通知
+  + 工作队列
